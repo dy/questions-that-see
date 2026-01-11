@@ -6,8 +6,8 @@
 
 # ∞ INTENTION — OFFERING OR EGO TRIP?
 
-**What's the real motive—love or applause?**
-Serving or performing? Loving or performing?
+**What's the real motive—love or show?**
+Serving or showing up? Loving or performing?
 Would this please God or just myself?
 Am I attached to result or to service?
 Would I do this if no one ever knew? If I couldn't take credit?
