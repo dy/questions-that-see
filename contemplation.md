@@ -169,7 +169,7 @@ What wants to die so something better can live?
 
 **Does result match intent—or did I fool myself?**
 What would make me proud to show this?
-What would make me cringe in front of masters?
+What would make me embarassed in 6 months?
 Would I use this? Recommend it? Pay for it?
 
 **What can be deleted entirely? Start there.**
