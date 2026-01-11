@@ -2,7 +2,7 @@
 
 *Meditation for product design, process enhancement, and any work worth doing*
 
----
+
 
 # ∞ INTENTION — OFFERING OR EGO TRIP?
 
@@ -26,7 +26,7 @@ Does this serve life or just my image?
 Is this work—or worship?
 Art in myself, or myself in art?
 
----
+
 
 # 1. RESEARCH — WHAT SUFFERING ENDS HERE?
 
@@ -81,7 +81,7 @@ Blue ocean—where is competition irrelevant?
 What would make someone say "whoa"?
 What's the thing only we can see?
 
----
+
 
 # 2. SYNTHESIS — ONE JOB, WHAT MUST IT DO PERFECTLY?
 
@@ -126,7 +126,7 @@ What metaphor captures the essence?
 What name would make a stranger curious?
 What name would I be embarrassed by in 5 years?
 
----
+
 
 # 3. EXECUTION — SHIP INCOMPLETE BUT USEFUL
 
@@ -163,7 +163,7 @@ What would I build if I knew I WOULD fail?
 What's the version I'm embarrassed isn't good enough?
 What wants to die so something better can live?
 
----
+
 
 # 4. ANALYSIS — PRIDE OR CRINGE?
 
@@ -217,7 +217,7 @@ What principle guides all future changes?
 What docs would future me/agents/users need?
 What's the decision I'll thank myself for?
 
----
+
 
 # ∞ BLINDSPOTS — WHAT AM I NOT SEEING?
 
@@ -257,7 +257,7 @@ What would shock me if I saw it clearly?
 What would the right question even be?
 What does my choice of questions reveal about my blindspot?
 
----
+
 
 # ∞ WONDER — WHERE'S THE HIDDEN GOLD?
 
@@ -308,7 +308,7 @@ What's the thing no one's saying?
 What's the real reason this matters?
 What truth is hiding in plain sight?
 
----
+
 
 # THE RAZOR
 
@@ -320,7 +320,7 @@ Before you ship. When in doubt.
 4. **Embarrassing in 6 months?**
 5. **Offering—or ego trip?**
 
----
+
 
 *Ship what matters. Delete what doesn't.*
 *Serve, don't perform.*
