@@ -24,6 +24,7 @@ Is this a gift or a transaction?
 Would I be proud to show this to my teacher?
 Does this serve life or just my image?
 Is this work—or worship?
+Art in myself, or myself in art?
 
 ---
 
