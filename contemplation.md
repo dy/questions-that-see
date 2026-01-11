@@ -76,7 +76,7 @@ What makes it alive, not just useful?
 What's the spark? The magic? The secret ingredient?
 Where is the beauty hiding? What's the punchline?
 What story wants to be told? What myth does this embody?
-What's the humor? The playfulness? The secret wink?
+What's the humor? The play? The wink?
 Blue ocean—where is competition irrelevant?
 What would make someone say "whoa"?
 What's the thing only we can see?
@@ -89,7 +89,7 @@ What's the thing only we can see?
 What single thing must it nail? No compromises.
 If it could only do ONE thing, what survives the fire?
 What does success look like? Feel like? Sound like?
-What job is it hired for? What does it mercifully kill?
+What job is it hired for? What does it kill?
 What would make this feel inevitable, not optional—like it was always meant to exist?
 One metric—what number defines victory?
 How will I know it's working? Early signal vs noise?
@@ -274,9 +274,9 @@ What story is trying to unfold here?
 What would make this legendary, not just useful?
 What's the "aha" waiting to happen?
 
-**What would an outsider see that I can't??**
+**What would an outsider see that I can't?**
 What would child see? Artist? Poet? Musician?
-What would scientist notice? Philosopher question? A philosopher?
+What would scientist notice? Philosopher question?
 What would grandmother understand immediately?
 What would alien find strange?
 What's obvious to a beginner that expert misses?
@@ -302,13 +302,11 @@ What's obvious we're overcomplicating?
 What do I know that I don't know I know?
 What would I do if I stopped thinking and just moved?
 What's the answer I already have but won't admit?
-What would I do if I trusted myself?
 
 **What's this secretly about?**
 What's the thing no one's saying?
 What's the real reason this matters?
 What truth is hiding in plain sight?
-Where is the love in this?
 
 ---
 
