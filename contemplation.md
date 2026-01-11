@@ -1,6 +1,6 @@
 # QUESTIONS THAT SEE
 
-*Contemplation practice for product design, process enhancement, and any work worth doing*
+*Meditation for product design, process enhancement, and any work worth doing*
 
 ---
 
