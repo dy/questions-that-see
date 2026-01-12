@@ -1,203 +1,137 @@
-# Question Enhancement Framework
+# 🔪 SHARPEN ANY QUESTION
 
-## 1. DIMENSIONAL EXPANSION
-
-**Synonymic parallels** - multiple angles on same target
-- "What's the goal?" → "What's the goal/mission/intended outcome?"
-- "What's valuable?" → "What's valuable/meaningful/worth preserving?"
-
-**Range widening** - expand semantic field
-- "What's unique?" → "What's unique/soul/magic/изюминка?"
-- "What works?" → "What works/delights/transcends?"
-
-**Contrast pairing** - define through opposition
-- "What should it be?" + "What should it NOT be?"
-- "What's in scope?" + "What's explicitly out?"
-- "Who's the user?" + "Who is NOT the user?"
-
-## 2. TEMPORAL SHIFTS
-
-**Past retrospection**
-- "What worked before?"
-- "What did we learn last time?"
-- "What pattern keeps repeating?"
-
-**Future projection**
-- "What would embarrass me in 6 months?"
-- "What would make this timeless?"
-- "What breaks first at scale?"
-
-**Negativa (removal)**
-- "What if this never existed?"
-- "What's lost if we stop?"
-- "What would the world miss?"
-
-**Counterfactual**
-- "What if we'd started differently?"
-- "What if we'd shipped last year?"
-
-## 3. SCALE VARIATION
-
-**Zoom in (atomic)**
-- "What's the strategy?" → "What's the next single action?"
-- "What's the problem?" → "What exact moment does pain occur?"
-- "What's quality?" → "What specific number matters?"
-
-**Zoom out (systemic)**
-- "What's the feature?" → "What category does it create?"
-- "What's the bug?" → "What class of errors is this?"
-- "What's the user?" → "What movement are we part of?"
-
-**Magnitude shift**
-- "What if 10x bigger?" / "What if 10x smaller?"
-- "What if 1 user?" / "What if 1M users?"
-
-## 4. PERSPECTIVE SWITCHING
-
-**Stakeholder rotation**
-- User: "What makes this delightful to use?"
-- Dev: "What makes this easy to extend?"
-- Agent: "What makes this discoverable?"
-- Future maintainer: "What docs do I need?"
-
-**Adversarial lens**
-- "How would this be misused?"
-- "Where would a hacker probe?"
-- "What assumption breaks under pressure?"
-
-**Naive inquiry**
-- "What would a child find magical?"
-- "What would confuse a beginner?"
-- "What requires too much context?"
-
-**Domain crossover**
-- "What would an artist see here?"
-- "How would a musician structure this?"
-- "What would a gardener do?"
-
-## 5. CONSTRAINT MANIPULATION
-
-**Add limits**
-- "What if you had one day?"
-- "What if no dependencies?"
-- "What if it must fit in a tweet?"
-
-**Remove limits**
-- "What if resources were infinite?"
-- "What if we could break any rule?"
-- "What if there were no technical debt?"
-
-**Flip constraint**
-- "What if this had to be 10x faster/slower?"
-- "What if it must run on a phone/server?"
-- "What if users are experts/novices?"
-
-**Substitute constraint**
-- "What if we optimize for joy, not speed?"
-- "What if we measure by delight, not metrics?"
-
-## 6. ABSTRACTION LADDER
-
-**Concrete anchoring** (down the ladder)
-- "What's quality?" → "What number defines success?"
-- "What's the problem?" → "Show me one person's exact pain"
-- "What's elegant?" → "What line of code exemplifies it?"
-
-**Abstract elevation** (up the ladder)
-- "What's this button?" → "What principle does it embody?"
-- "What's this feature?" → "What job is it hired for?"
-- "What's this metric?" → "What does it reveal about value?"
-
-**Category jumping**
-- "Is this a tool or a material?"
-- "Is this a product or a service?"
-- "Is this code or communication?"
-
-## 7. EMOTIONAL INJECTION
-
-**Visceral response**
-- "What excites me?" vs "What feels like a slog?"
-- "What makes me proud?" vs "What makes me cringe?"
-- "What energizes?" vs "What drains?"
-
-**Wonder activation**
-- "What would make someone say 'whoa'?"
-- "What's unexpectedly delightful?"
-- "Where's the hidden magic?"
-
-**Aversion detection**
-- "What am I avoiding?"
-- "What feels uncomfortable to ship?"
-- "What truth hurts to admit?"
-
-## 8. NEGATION DRILLING
-
-**Removal probing**
-- "What's unnecessary?" → "What if we removed X entirely?"
-- "What if we deleted half?" → "Which half?"
-- "What's decoration vs structure?"
-
-**False target elimination**
-- "What's NOT the problem?"
-- "What looks important but isn't?"
-- "What's a symptom, not a cause?"
-
-**Inverse formulation**
-- "How do we succeed?" → "How do we definitely fail?"
-- "What makes it good?" → "What makes it irredeemably bad?"
-
-## 9. META-QUESTIONING
-
-**Question the question**
-- "What question am I avoiding?"
-- "What would the right question be?"
-- "What question unlocks all others?"
-
-**Frame examination**
-- "What assumptions does this question carry?"
-- "What does asking this reveal about my blindspot?"
-- "What question would my enemy ask?"
-
-**Strategic silence**
-- "What question don't I need to answer yet?"
-- "What am I over-thinking?"
-- "What resolves itself if I wait?"
-
-## 10. INTEGRATION MOVES
-
-**Combine modalities**
-- Temporal + Scale: "What's the next single action that would embarrass me?"
-- Perspective + Constraint: "What would a user do with one click?"
-- Emotion + Negation: "What am I excited to remove?"
-
-**Chain drilling**
-- "What's the problem?"
-  → "Show one person's pain" (concrete)
-  → "What if it never existed?" (negativa)
-  → "What pattern does this reveal?" (abstract)
-
-**Spiral inquiry**
-- Ask same question through all lenses
-- "What's valuable?" → economic/aesthetic/spiritual/temporal/scale
-- Reveals multi-dimensional answer
+*Turn mush into blade. 5 moves + 1 opening.*
 
 ---
 
-## Examples of Movement
+## THE INSIGHT
 
-**Starting point:** "What should this do?"
+Every flat question sharpens by **moving along an axis**.
 
-**→ Synonymic:** "What should it do/solve/enable/prevent?"
+Stuck? Move the question.
 
-**→ Contrast:** "What should it do?" + "What should it absolutely NOT do?"
+---
 
-**→ Temporal:** "What will it need to do in 6 months?" / "What if we'd shipped this last year?"
+## 5 MOVES
 
-**→ Scale:** "What's the one critical thing it must do?" / "What category of solutions does it open?"
+### 1. ZOOM — In or Out
 
-**→ Perspective:** User: "What job am I hiring this for?" / Dev: "What makes this easy to change?"
+| Flat | Sharpened |
+|------|-----------|
+| "What's the problem?" | **IN:** "Show me one person's exact pain—the precise moment it hurts." |
+| "What's the feature?" | **OUT:** "What category does this create? What job is it hired for?" |
+| "What's quality?" | **IN:** "What ONE number defines success?" |
 
-**→ Constraint:** "What if it had to work in one function?" / "What if it had infinite complexity budget?"
+**In:** Concrete. Specific. Atomic.
+**Out:** Pattern. Category. System.
+
+---
+
+### 2. FLIP — Opposite or Remove
+
+| Flat | Sharpened |
+|------|-----------|
+| "What should it do?" | **OPPOSITE:** "What must it NOT do? What would betray it?" |
+| "What's valuable?" | **REMOVE:** "What if we deleted half—which half lives?" |
+| "How do we succeed?" | **OPPOSITE:** "How do we definitely fail?" |
+
+**Opposite:** Define by what it ISN'T.
+**Remove:** Find essence by subtraction.
+
+---
+
+### 3. SHIFT — Time, Perspective, Constraint
+
+| Flat | Sharpened |
+|------|-----------|
+| "Is this good?" | **TIME:** "Will this embarrass me in 6 months?" |
+| "What's the UX?" | **PERSPECTIVE:** "What would my harshest critic see in 5 seconds?" |
+| "What should we build?" | **CONSTRAINT:** "What would we ship if we had one day?" |
+
+**Time:** Past, future, 6 months, 10 years.
+**Perspective:** User, enemy, child, expert, outsider.
+**Constraint:** Add limit (1 day, 1 function) or remove limit (infinite resources).
+
+---
+
+### 4. GROUND — Abstract to Concrete
+
+| Flat | Sharpened |
+|------|-----------|
+| "What's the goal?" | "What does victory taste like? Feel like?" |
+| "Who's the user?" | "One person. Name them. What's their curse?" |
+| "What's elegant?" | "Show me the one line of code that exemplifies it." |
+
+Pull clouds down to earth. Names. Numbers. Moments.
+
+---
+
+### 5. FEEL — Emotion as Signal
+
+| Flat | Sharpened |
+|------|-----------|
+| "What should we prioritize?" | "What EXCITES? What DRAINS?" |
+| "Is it ready?" | "What am I afraid to ship? Ship that." |
+| "What's blocking?" | "What am I pretending not to know?" |
+
+Excitement = signal. Drain = poison. Avoidance = the thing.
+
+---
+
+## ✨ BEYOND TECHNIQUE
+
+### 6. RECEIVE — What Wants to Be Asked?
+
+The 5 moves are *you* acting on the question.
+This move is the question acting on *you*.
+
+| Pushing | Receiving |
+|---------|-----------|
+| "What should I ask?" | "What question keeps returning no matter how many times I dismiss it?" |
+| "How do I sharpen this?" | "If I stopped thinking and just listened—what emerges?" |
+| "What's the right question?" | "What is this situation asking ME—not what am I asking it?" |
+
+- What question am I not ready to hear the answer to?
+- What would a question look like if it came from the work, not from me?
+- What's trying to be born that I'm blocking?
+
+*Stop pushing. Start listening. The question finds you.*
+
+---
+
+## QUICK REFERENCE
+
+| Move | Question |
+|------|----------|
+| **ZOOM IN** | "Show me the exact moment..." |
+| **ZOOM OUT** | "What pattern/category is this?" |
+| **FLIP** | "What's the opposite? What if we removed it?" |
+| **SHIFT TIME** | "In 6 months—pride or cringe?" |
+| **SHIFT PERSPECTIVE** | "What would [enemy/child/outsider] see?" |
+| **SHIFT CONSTRAINT** | "What if we had 1 day / infinite time?" |
+| **GROUND** | "What number? What name? What moment?" |
+| **FEEL** | "What excites? What drains? What am I avoiding?" |
+| **RECEIVE** | "What question keeps returning? What wants to be asked?" |
+
+---
+
+## EXAMPLE
+
+**Starting question:** "What should this do?"
+
+→ **ZOOM IN:** "What's the ONE thing it must nail?"
+→ **FLIP:** "What must it NOT become?"
+→ **SHIFT TIME:** "What would I cut if launch was tomorrow?"
+→ **SHIFT PERSPECTIVE:** "What job is the user hiring this for?"
+→ **GROUND:** "Say it in 7 words or less."
+→ **FEEL:** "What part excites me? Build that first."
+→ **RECEIVE:** "What question keeps coming back that I keep ignoring?"
+
+---
+
+*Flat question = flat answer.*
+*Move the question = find the truth.*
+*Or stop—and let the question find you.*
 
 **→ Abstraction:** "Show me one exact use" / "What principle guides all uses?"
 
