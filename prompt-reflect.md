@@ -1,4 +1,6 @@
-# 🔥 PROJECT STATE RAZOR
+# 🪹 REFLECT — WHAT'S TRUE HERE?
+
+*Look within. Mirror. Truth of current state.*
 
 ---
 
@@ -58,19 +60,27 @@
 
 ---
 
+## 8. WHAT TREASURE AM I SITTING ON BLIND?
+
+- What blessing hides as obstacle?
+- What would an outsider see instantly that I miss?
+- What's the "aha" waiting to happen?
+
+---
+
 ## ⚡ COPY-PASTE PROMPT
 
 ```
-Analyze this with brutal honesty:
+REFLECT — What's true here? (Brutal honesty)
 
-1. WHAT SUFFERING ENDS? Show me the exact pain this heals.
-2. IDEAL RESULT? What's the canonical form—the timeless target?
+1. SUFFERING? Show me the exact pain this heals.
+2. IDEAL? What's the timeless form—the canonical target?
 3. OFFERING OR EGO? Would a spiritual master approve?
 4. ALIVE OR DEAD? What excites vs drains?
-5. WHAT AM I PRETENDING NOT TO KNOW? What pattern owns me?
-6. WHAT CAN BE DELETED? What removal improves everything?
-7. WHAT STINKS? What would my harshest critic see in 5 seconds?
-8. WHAT TREASURE AM I MISSING? Hidden opportunity, gem, blessing in disguise?
+5. PRETENDING NOT TO KNOW? What pattern owns me?
+6. DELETE? What removal improves everything?
+7. STINKS? What would my harshest critic see in 5 seconds?
+8. HIDDEN TREASURE? What blessing hides as obstacle?
 
 No comfort. What's the truth?
 ```
