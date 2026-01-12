@@ -83,16 +83,18 @@ What's the thing only we can see?
 
 
 
-# 2. SYNTHESIS — ONE JOB, WHAT MUST IT DO PERFECTLY?
+# 2. VISION — ONE JOB, WHAT MUST IT DO PERFECTLY?
 
-**What does victory taste like?**
+**What would be ideal result—the timeless form?**
 What single thing must it nail? No compromises.
 If it could only do ONE thing, what survives the fire?
 What does success look like? Feel like? Sound like?
 What job is it hired for? What does it kill?
 What would make this feel inevitable, not optional—like it was always meant to exist?
+What would make it canonical? Classic? Referenced for years?
 One metric—what number defines victory?
 How will I know it's working? Early signal vs noise?
+What does victory taste like?
 
 **What's the boundary—where does this end?**
 Smallest useful thing? Minimum lovable?
@@ -210,9 +212,9 @@ What would be signals of quality?
 What's the one sentence that explains this to anyone?
 What would make this teachable?
 
-**What survives time—what's timeless here?**
+**What survives time—is this built to last?**
 What would embarrass me in 6 months?
-What would make it timeless? Canonical? Classic?
+Is this timeless or trendy? Canonical or disposable?
 What principle guides all future changes?
 What docs would future me/agents/users need?
 What's the decision I'll thank myself for?
