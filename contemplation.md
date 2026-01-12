@@ -26,6 +26,13 @@ Does this serve life or just my image?
 Is this work—or worship?
 Art in myself, or myself in art?
 
+**What actually changes—in absolute terms?**
+If this succeeds perfectly, what's different in reality?
+What shifts in the universe that wasn't shifting before?
+Is this real impact or just rearranging perception?
+What would remain if all metrics disappeared?
+Does this create or just consume?
+
 
 
 # 1. RESEARCH — WHAT SUFFERING ENDS HERE?
