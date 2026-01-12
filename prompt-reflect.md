@@ -15,8 +15,8 @@
 ## 2. WHAT'S THE IDEAL RESULT—THE TIMELESS FORM?
 
 - What single thing must it nail? No compromises.
-- What would make it canonical? Classic? Referenced for years?
-- What does victory taste like?
+- What would make it canonical? Referenced in 10 years?
+- What does victory taste like? Look like?
 
 ---
 
@@ -74,10 +74,10 @@
 REFLECT — What's true here? (Brutal honesty)
 
 1. SUFFERING? Show me the exact pain this heals.
-2. IDEAL? What's the timeless form—the canonical target?
+2. IDEAL? What's the timeless form? Referenced in 10 years?
 3. OFFERING OR EGO? Would a spiritual master approve?
 4. ALIVE OR DEAD? What excites vs drains?
-5. PRETENDING NOT TO KNOW? What pattern owns me?
+5. PRETENDING NOT TO KNOW? What would my enemy see that I'm hiding from?
 6. DELETE? What removal improves everything?
 7. STINKS? What would my harshest critic see in 5 seconds?
 8. HIDDEN TREASURE? What blessing hides as obstacle?

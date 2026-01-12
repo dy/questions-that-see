@@ -84,8 +84,8 @@ PROJECT — Where to go? (Cut fog, make me move)
 1. PAIN? One person, one moment, one curse. What exactly?
 2. ONE JOB? Say it in 7 words. What survives the fire?
 3. WHAT'S OUT? What must it NOT become?
-4. SOUL? What makes this alive? What can't be copied?
-5. UNLOCK? What ONE decision makes everything else easier?
+4. SOUL? What makes this alive? What would someone show a friend?
+5. UNLOCK? If I had to decide in 60 seconds—what?
 6. NEXT MOVE? What would I ship TODAY? 30-minute action?
 7. WAITING FOR? What's the cost of delay? What's not real?
 8. WHAT MAGIC? What legendary outcome am I not allowing?
