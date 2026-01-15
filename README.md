@@ -15,7 +15,7 @@ Questions for work worth doing.
 
 ## Quick Use
 
-**Confused about current state?** → Run REFLECT
+**Confused about current state?** → Run REFLECT<br>
 **Need direction and movement?** → Run PROJECT
 
 Copy-paste prompts included in each file.
