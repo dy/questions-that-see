@@ -21,16 +21,6 @@ Questions for work worth doing.
 Copy-paste prompts included in each file.
 
 
-## The Pair
-
-| REFLECT | PROJECT |
-|---------|---------|
-| Look within | Look forward |
-| What IS | What COULD BE |
-| Mirror | Arrow |
-| Diagnose | Direct |
-
-
 ## Languages
 
 English: [`contemplation.md`](./contemplation.md)
