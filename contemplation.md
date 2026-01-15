@@ -103,6 +103,20 @@ One metric—what number defines victory?
 How will I know it's working? Early signal vs noise?
 What does victory taste like?
 
+**What's the theoretically pure form?**
+Before compromise, before constraints—what's the Platonic ideal?
+What would this look like with infinite time, skill, resources?
+What's the version unsullied by "reality"?
+What principle does this embody in its purest state?
+If I take the limit as versions → ∞, what does it converge to?
+What's the attractor this is spiraling toward?
+
+**What's the theoretical minimum?**
+Smallest thing that still solves the core problem?
+What's the version with zero ornamentation?
+One function. One screen. One sentence. What survives?
+What's the seed that contains the whole tree?
+
 **What's the boundary—where does this end?**
 Smallest useful thing? Minimum lovable?
 What's out? What dilutes the magic?
@@ -152,6 +166,7 @@ What would I ship if I had to ship TODAY?
 What's the 20% that delivers 80%?
 What would embarrass me to NOT ship?
 What's already complete that I'm not seeing?
+What would help me to finish this?
 
 **What's the deadline—the edge that makes it real?**
 No deadline = no ship. What's the date?
@@ -225,6 +240,16 @@ Is this timeless or trendy? Canonical or disposable?
 What principle guides all future changes?
 What docs would future me/agents/users need?
 What's the decision I'll thank myself for?
+
+**What pressure would turn this into diamond?**
+What constraint, if imposed, would force brilliance?
+Half the time? Half the budget? Half the features—which half lives?
+What if 10x users hit it tomorrow—what shatters first?
+What would a ruthless editor cut without mercy?
+What would remain if I had to defend every line?
+What's the crucible this hasn't passed through?
+What artificial comfort am I protecting that's keeping this coal?
+What pressure am I afraid to apply—apply that?
 
 
 
@@ -316,22 +341,3 @@ What's the answer I already have but won't admit?
 What's the thing no one's saying?
 What's the real reason this matters?
 What truth is hiding in plain sight?
-
-
-
-# THE RAZOR
-
-Before you ship. When in doubt.
-
-1. **What suffering ends here?**
-2. **One job—done perfectly?**
-3. **What am I not seeing?**
-4. **Embarrassing in 6 months?**
-5. **Offering—or ego trip?**
-
-
-
-*Ship what matters. Delete what doesn't.*
-*Serve, don't perform.*
-*The obstacle is the way.*
-*Trust yourself.*
