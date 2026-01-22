@@ -33,6 +33,11 @@ Is this real impact or just rearranging perception?
 What would remain if all metrics disappeared?
 Does this create or just consume?
 
+**What paradox lives here?**
+What opposite is secretly true?
+What am I building forever that will last five minutes?
+Nothing's more temporary than a promise for eternal—what's mine?
+
 
 
 # 1. RESEARCH — WHAT SUFFERING ENDS HERE?
@@ -110,6 +115,7 @@ What's the version unsullied by "reality"?
 What principle does this embody in its purest state?
 If I take the limit as versions → ∞, what does it converge to?
 What's the attractor this is spiraling toward?
+What contradiction must this hold without resolving?
 
 **What's the theoretical minimum?**
 Smallest thing that still solves the core problem?
@@ -123,6 +129,7 @@ What's out? What dilutes the magic?
 What must it NOT become? What would betray it?
 What feature would users beg for that we must lovingly refuse?
 What's bone vs flesh? Essential vs ornament?
+What strength becomes weakness if taken too far?
 
 **What's the spine everything hangs on?**
 Happy path—what do 90% of users actually do?
@@ -240,6 +247,7 @@ Is this timeless or trendy? Canonical or disposable?
 What principle guides all future changes?
 What docs would future me/agents/users need?
 What's the decision I'll thank myself for?
+What's built to last that won't? What's disposable that will endure?
 
 **What pressure would turn this into diamond?**
 What constraint, if imposed, would force brilliance?
@@ -271,6 +279,7 @@ What story am I attached to that's holding me back?
 What failure mode am I romanticizing?
 What success am I secretly afraid of?
 What if the obstacle IS the way?
+What opposite of my belief is equally true?
 
 **What question am I dodging?**
 What's scary to answer?
@@ -341,3 +350,4 @@ What's the answer I already have but won't admit?
 What's the thing no one's saying?
 What's the real reason this matters?
 What truth is hiding in plain sight?
+What paradox, if embraced, unlocks everything?
