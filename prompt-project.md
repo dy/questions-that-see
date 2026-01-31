@@ -44,6 +44,7 @@
 
 - What am I avoiding deciding?
 - What would I choose if fear left the room?
+- What limitation—introduced or removed—would unblock everything?
 - Reversible → move fast. Irreversible → sleep on it. Which is this?
 - What's the ONE commitment that makes everything else easier?
 

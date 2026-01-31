@@ -63,6 +63,7 @@
 ## 8. WHAT TREASURE AM I SITTING ON BLIND?
 
 - What blessing hides as obstacle?
+- What limitation—introduced or removed—would unblock everything?
 - What would an outsider see instantly that I miss?
 - What's the "aha" waiting to happen?
 

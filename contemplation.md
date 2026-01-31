@@ -307,6 +307,7 @@ What does my choice of questions reveal about my blindspot?
 **What value did I not intend—what potential is unreleased?**
 Hidden treasure? Adjacent problem accidentally solved?
 What constraint removed changes everything?
+What limitation—introduced or removed—would unblock everything?
 What blessing is disguised as obstacle?
 What's the gift hiding inside the limitation?
 What's the low-hanging fruit no one picked?
