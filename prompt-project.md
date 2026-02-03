@@ -40,7 +40,17 @@
 
 ---
 
-## 5. WHAT DECISION UNLOCKS ALL THE OTHERS?
+## 5. WHAT LIE AM I TELLING MYSELF?
+
+- What assumption breaks under pressure?
+- What technical limit am I ignoring?
+- What disaster am I pretending won't happen?
+- Is this offering—or ego dressed as service?
+- Would I still build this if no one ever knew?
+
+---
+
+## 6. WHAT DECISION UNLOCKS ALL THE OTHERS?
 
 - What am I avoiding deciding?
 - What would I choose if fear left the room?
@@ -50,7 +60,7 @@
 
 ---
 
-## 6. WHAT'S THE NEXT MOVE—NOT STRATEGY, THE MOVE?
+## 7. WHAT'S THE NEXT MOVE—NOT STRATEGY, THE MOVE?
 
 - What would I ship if I had to ship TODAY?
 - What's the smallest thing that's genuinely useful?
@@ -59,21 +69,12 @@
 
 ---
 
-## 7. WHAT AM I WAITING FOR—PERMISSION?
+## 8. WHAT AM I WAITING FOR—PERMISSION?
 
 - What would I do if I knew I couldn't fail?
 - What would I do if I knew I WOULD fail?
 - What's the cost of delay? What window is closing?
 - What's stopping me that isn't actually real?
-
----
-
-## 8. WHAT MAGIC COULD HAPPEN—THAT I'M NOT ALLOWING?
-
-- What if this is about something else entirely?
-- What absurd success am I not even considering?
-- What would make this legendary, not just useful?
-- What story wants to unfold that I'm blocking?
 
 ---
 
@@ -85,11 +86,11 @@ PROJECT — Where to go? (Cut fog, make me move)
 1. PAIN? One person, one moment, one curse. What exactly?
 2. ONE JOB? Say it in 7 words. What survives the fire?
 3. WHAT'S OUT? What must it NOT become?
-4. SOUL? What makes this alive? What would someone show a friend?
-5. UNLOCK? If I had to decide in 60 seconds—what?
-6. NEXT MOVE? What would I ship TODAY? 30-minute action?
-7. WAITING FOR? What's the cost of delay? What's not real?
-8. WHAT MAGIC? What legendary outcome am I not allowing?
+4. SOUL? What makes this alive? What can't be copied?
+5. WHAT LIE? What assumption breaks? What limit ignored? Ego hiding?
+6. UNLOCK? If I had to decide in 60 seconds—what?
+7. NEXT MOVE? What would I ship TODAY? 30-minute action?
+8. WAITING FOR? What's the cost of delay? What's not real?
 
 Cut through fog. Make me move.
 ```
