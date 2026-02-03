@@ -56,4 +56,4 @@ All prompts include ego checks. Mind is temporary resource—use efficiently:
 - Русский: [contemplation-ru.md](contemplation-ru.md)
 
 
-<p align=center><a href="https://github.com/krsnzd/license/">ॐ</a></p>
+<p align=center><a href="https://github.com/krishnized/license/">ॐ</a></p>
