@@ -12,10 +12,10 @@ Questions for work worth doing.
 | [**🪞 REFLECT**](prompt-reflect.md) | Need truth about current state | What's true here? | Mirror |
 | [**✅ READINESS**](prompt-readiness.md) | Before shipping | Is this ready? | Assessment |
 
-**Confused what to build?** → EXPLORE (discover before committing)
-**Know what, need how?** → PROJECT (cut fog, make me move)
-**Need honest assessment?** → REFLECT (mirror, not comfort)
-**Ready to ship?** → READINESS (final check before offering)
+**Confused what to build?** → EXPLORE (discover before committing)<br>
+**Know what, need how?** → PROJECT (cut fog, make me move)<br>
+**Need honest assessment?** → REFLECT (mirror, not comfort)<br>
+**Ready to ship?** → READINESS (final check before offering)<br>
 
 
 ## Files
