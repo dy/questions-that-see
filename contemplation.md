@@ -40,7 +40,7 @@ Nothing's more temporary than a promise for eternal—what's mine?
 
 
 
-# 1. RESEARCH — WHAT SUFFERING ENDS HERE?
+# 1. EXPLORE — WHAT SUFFERING ENDS HERE?
 
 **What's the wound I'm here to heal?**
 Show me one person's exact pain—the precise moment it occurs.
@@ -84,7 +84,7 @@ What wants to be born through this moment?
 
 
 
-# 2. VISION — ONE JOB, WHAT MUST IT DO PERFECTLY?
+# 2. PROJECT — ONE JOB, WHAT MUST IT DO PERFECTLY?
 
 **What would be ideal result—the timeless form?**
 What single thing must it nail? No compromises.
@@ -156,7 +156,7 @@ What name would I be embarrassed by in 5 years?
 
 
 
-# 3. EXECUTION — SHIP INCOMPLETE BUT USEFUL
+# 3. EXECUTE — SHIP INCOMPLETE BUT USEFUL
 
 **What's the riskiest assumption hiding in plain sight?**
 What must be true for this to work?
@@ -193,7 +193,7 @@ What wants to die so something better can live?
 
 
 
-# 4. REVIEW — READY TO OFFER?
+# 4. REVISE — READY TO OFFER?
 
 *Adding more would make it worse. Removing anything would make it incomplete.*
 

@@ -16,10 +16,10 @@ Questions for work worth doing.
 | # | Section | When |
 |---|---------|------|
 | ∞ | Intention | Always first |
-| 1 | Research | Before starting |
-| 2 | Vision | Before designing |
-| 3 | Execution | While building |
-| 4 | Review | Before shipping / after building |
+| 1 | Explore | Before starting |
+| 2 | Project | Before designing |
+| 3 | Execute | While building |
+| 4 | Revise | Before shipping / after building |
 | ∞ | Blindspots | When stuck |
 | ∞ | Wonder | When missing magic |
 
