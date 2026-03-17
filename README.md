@@ -19,8 +19,7 @@ Questions for work worth doing.
 | 1 | Research | Before starting |
 | 2 | Vision | Before designing |
 | 3 | Execution | While building |
-| 4 | Readiness | Before shipping |
-| 5 | Analysis | After building |
+| 4 | Review | Before shipping / after building |
 | ∞ | Blindspots | When stuck |
 | ∞ | Wonder | When missing magic |
 

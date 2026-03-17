@@ -73,7 +73,7 @@ What category does this create—or belong to?
 
 **What are all the ways this could be useful?**
 Main use cases? Hidden/indirect/unintended uses?
-What job is it hired for? What does it replace?
+What does it replace?
 What's the simplest thing that could possibly work?
 
 **Why now—what window is open?**
@@ -81,17 +81,6 @@ What changed? What's closing?
 What's the cost of delay? What's the gift of waiting?
 What trend are we riding or fighting?
 What wants to be born through this moment?
-
-**What's the soul — the изюминка?**
-What's the moat? What can't be copied?
-What makes it alive, not just useful?
-What's the spark? The magic? The secret ingredient?
-Where is the beauty hiding? What's the punchline?
-What story wants to be told? What myth does this embody?
-What's the humor? The play? The wink?
-Blue ocean—where is competition irrelevant?
-What would make someone say "whoa"?
-What's the thing only we can see?
 
 
 
@@ -131,13 +120,22 @@ What feature would users beg for that we must lovingly refuse?
 What's bone vs flesh? Essential vs ornament?
 What strength becomes weakness if taken too far?
 
+**What's the soul — the изюминка?**
+What's the moat? What can't be copied?
+What makes it alive, not just useful?
+What's the spark? The magic? The secret ingredient?
+Where is the beauty hiding? What's the punchline?
+What story wants to be told? What myth does this embody?
+Blue ocean—where is competition irrelevant?
+What would make someone say "whoa"?
+What's the thing only we can see?
+
 **What's the spine everything hangs on?**
 Happy path—what do 90% of users actually do?
 What's the gravity—what pulls everything into orbit?
 What breaks first under weight/scale?
 What edge cases matter? Which are noise?
 What sequence minimizes waste?
-Next single action—not strategy, not vision. What?
 
 **What's the price—and am I willing to pay it?**
 Every yes is a no. What am I trading?
@@ -172,7 +170,6 @@ Smallest shippable thing that's genuinely useful?
 What would I ship if I had to ship TODAY?
 What's the 20% that delivers 80%?
 What would embarrass me to NOT ship?
-What's already complete that I'm not seeing?
 What would help me to finish this?
 
 **What's the deadline—the edge that makes it real?**
@@ -196,7 +193,7 @@ What wants to die so something better can live?
 
 
 
-# 4. READINESS — READY TO OFFER?
+# 4. REVIEW — READY TO OFFER?
 
 *Adding more would make it worse. Removing anything would make it incomplete.*
 
@@ -229,19 +226,13 @@ Does it follow conventions? Integrate cleanly?
 Is the environment clear? Is metadata complete?
 Would an expert in this ecosystem approve?
 
-
-
-# 5. ANALYSIS — PRIDE OR CRINGE?
-
 **Does result match intent—or did I fool myself?**
 What would make me proud to show this?
-What would make me embarassed in 6 months?
 Would I use this? Recommend it? Pay for it?
 
 **What can be deleted entirely? Start there.**
 If we deleted half—which half lives?
 What's one thing that, if removed, improves everything?
-What's essence vs ornament? Structure vs decoration?
 What's the simplest interface? The least clicks?
 What cognitive load can be lifted?
 What would a minimalist remove?
@@ -266,7 +257,7 @@ What worked? What to repeat?
 What failed? What to never do again?
 What would I do differently next time?
 What truth hurts to admit?
-What mistake keeps returning? What pattern owns me?
+What mistake keeps returning?
 What would I confess if I were being fully honest?
 
 **What complicates adoption?**
