@@ -13,17 +13,17 @@
 > *"Art in myself, not myself in art."* — Stanislavski
 > *"Mathematics compares the most diverse phenomena and discovers the secret analogies that unite them."* — Joseph Fourier
 
-**What's the real motive—love or show?**
-Serving or showing up? Loving or performing?
+**What's the real motive?**
+Service or show? Love or performance?
 Would this please God or just myself?
 Am I attached to result or to service?
 Would I do this if no one ever knew? If I couldn't take credit?
 Where is the love in this?
 Is this free from jnana (knowledge-pride) and karma (result-attachment)? *Anyabhilashita-shunyam.*
-The spirit soul bewildered by false ego thinks himself the doer — am I the doer, or the instrument?
+Am I the doer (false ego), or the instrument?
 
 **What ego is hiding here?**
-What am I proving? What wound is this compensating for?
+What am I proving? What insecurity is this compensating for?
 Am I trying to look smart, spiritual, successful?
 What would remain if applause disappeared?
 What if I trusted myself completely?
@@ -41,11 +41,13 @@ What shifts in the universe that wasn't shifting before?
 Is this real impact or just rearranging perception?
 What would remain if all metrics disappeared?
 Does this create or just consume?
+Can it not be done?
+What will change if this doesn't exist?
 
 **What secret analogy unites this with nature?**
 What hidden harmony connects this to a pattern in another domain?
 Would Fourier see unity here — or just ego projecting patterns?
-Harinama manifests not only in sound — but in architecture, music, cuisine, everything. Where is the Name hiding in this work?
+Is that manifestation of Hari, or my ego?
 
 **What paradox lives here?**
 What opposite is secretly true?
@@ -54,7 +56,7 @@ Nothing's more temporary than a promise for eternal—what's mine?
 
 
 
-# 1. EXPLORE — WHAT SUFFERING ENDS HERE?
+# 1. EXPLORE — WHAT PROBLEM WANTS SOLVING?
 
 > *"I am not afraid of material existence, for wherever I stay I am fully absorbed in Your glories. I am anxious for those who have created a way of life of unnecessary problems."* — Prahlada Maharaja (SB 7.9.43)
 > *"The essence of all advice is that one should utilize one's full time and energy in chanting the holy name. This is the teaching of all great devotees, and the original message of the Supreme Lord."* — Bhaktivinoda Thakura
@@ -62,29 +64,26 @@ Nothing's more temporary than a promise for eternal—what's mine?
 > *"The profound study of nature is the most fertile source of mathematical discoveries."* — Joseph Fourier
 > *"It is by logic that we prove, but by intuition that we discover."* — Henri Poincaré
 
-**What's the wound I'm here to heal?**
-Show me one person's exact pain—the precise moment it occurs.
-What friction/frustration/failure does this remove?
-What curse does this lift? What weight comes off shoulders?
-What emotion at point of pain? Frustration? Confusion? Shame? Fear?
+**What problem am I here to solve?**
+Show me one person's exact frustration—the precise moment it hits.
+What friction does this remove? What obstacle does this clear?
+What emotion at the friction point? Frustration? Confusion? Overwhelm?
 What's the villain in user's story?
-What would they whisper to a friend about this problem?
-What silent prayer does this answer?
-What's the noisy signal hiding a pure waveform — what decomposition reveals the clean pattern?
-Am I healing the surface pain — or the deeper forgetfulness beneath it?
+What would they complain about to a friend?
+What's the signal hiding in noise — what decomposition reveals the clean pattern?
 Is this genuinely serving the living being — or just giving them what they want?
 
 **What becomes possible that wasn't before?**
-What door opens? What cage unlocks? What permission is granted?
+What new capability unlocks? What door opens?
 What would the world lose if this never existed?
-What joy enabled? What burden ended?
+What joy enabled? What friction eliminated?
 
 **Who is this really for—and who must I disappoint?**
 Who wants this desperately? Who is NOT the user?
 Who would abuse it? Who would misuse it?
 What audience would love this but doesn't know it exists yet?
-Who would cry if this disappeared?
-Who would laugh with relief when this arrives?
+Who depends on this?
+Who would celebrate when this arrives?
 
 **What's the territory I'm entering?**
 What already exists? Best/worst of it?
@@ -102,7 +101,6 @@ What's the simplest thing that could possibly work?
 **Who already solved for an adjacent pain?**
 What did they get right? What did they miss?
 What would combining their best ideas look like?
-What's the mashup nobody tried?
 
 **Why now—what window is open?**
 What changed? What's closing?
@@ -193,8 +191,10 @@ Good enough now vs perfect never?
 What am I sacrificing that I'll regret?
 What am I keeping that I should sacrifice?
 
-**What decision unlocks all the others?**
-What am I avoiding? What am I afraid to commit to?
+**What unlocks everything?**
+What decision, if made, makes all others obvious?
+What minimal angle shift unlocks a whole new value layer?
+What am I avoiding committing to?
 Reversible → move fast. Irreversible → sleep on it.
 What would I decide if fear wasn't in the room?
 
@@ -249,8 +249,7 @@ What am I doing only because I "should"?
 **What am I afraid to ship? Ship that.**
 What would I build if I knew I couldn't fail?
 What would I build if I knew I WOULD fail?
-What's the version I'm embarrassed isn't good enough?
-What wants to die so something better can live?
+What's the version I'd be proud to ship right now?
 
 **Am I learning or just building?**
 What did I learn this week that changed the plan?
@@ -319,12 +318,11 @@ What cognitive load can be lifted?
 What would a minimalist remove?
 What's already complete—what am I adding to unnecessarily?
 
-**What smells wrong—even if I can't name it?**
+**Where would a craftsman focus first?**
 What's ugly? Clunky? Slow? Wasteful?
 What's embarrassing to look at?
 DX: Easy to extend? UX: Delightful? AX: Discoverable?
-What would a craftsman fix first?
-What's the one defect that, fixed, fixes many?
+What's the one fix that improves many things at once?
 
 **What's the real structure beneath the surface?**
 What's coupled that shouldn't be?
@@ -337,8 +335,8 @@ What would break if requirements changed?
 What worked? What to repeat?
 What failed? What to never do again?
 What would I do differently next time?
-What truth hurts to admit?
-What mistake keeps returning?
+What honest insight am I sitting on?
+What pattern needs breaking?
 What would I confess if I were being fully honest?
 
 **What complicates adoption?**
@@ -387,7 +385,7 @@ What's confusing or surprising here?
 What expectation is being violated?
 
 **What's my comforting lie—my favorite illusion?**
-What pattern owns me? What habit blinds me?
+What pattern am I repeating unconsciously? What habit blinds me?
 What do I tell myself that isn't true?
 What am I protecting that doesn't need protection?
 What story am I attached to that's holding me back?
@@ -397,7 +395,7 @@ What if the obstacle IS the way?
 What opposite of my belief is equally true?
 
 **What question am I dodging?**
-What's scary to answer?
+What's the hardest question here?
 What am I over-thinking? What resolves itself if I wait?
 Is this even the right problem?
 What would I ask if I had courage?
@@ -518,9 +516,7 @@ What's unfashionable but important that nobody's working on?
 What looks boring to others but fascinates me? That's the signal.
 What would I work on if I were going to take a break from "serious" work?
 
-**What would I do if I stopped thinking and just moved?**
-What would I build if I followed pure intuition first, then proved it?
-What's the answer I already have but won't admit?
+**What would I build if I followed pure intuition first, then proved it?**
 What's the version I'd build in one weekend, with no plan?
 What constraints would force me to act instead of analyze?
 
