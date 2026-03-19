@@ -165,7 +165,7 @@ What feature would users beg for that we must lovingly refuse?
 What's bone vs flesh? Essential vs ornament?
 What strength becomes weakness if taken too far?
 
-**What's the soul — the изюминка?**
+**What's the soul — the spark, the secret, moat, x-factor, spice, flair?**
 *"Know that all opulent, beautiful, and glorious creations spring from but a spark of My splendor."* — Krishna (BG 10.41)
 What's the moat? What can't be copied?
 What makes it alive, not just useful?
