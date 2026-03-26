@@ -375,6 +375,12 @@ What pressure am I afraid to apply—apply that?
 > *"To find new ideas you have to seize on signs of breakage instead of looking away."* — Paul Graham
 > *"A good new idea has to seem bad to most people, or someone would have already explored it."* — Paul Graham
 
+**What external forces am I ignoring? (SWOT)**
+What strength am I underusing? What weakness am I not admitting?
+What's changing in the world that makes this more or less valuable right now?
+What timing advantage exists that won't last?
+Who's approaching this from a different angle — what threatens the whole premise?
+
 **What am I conveniently ignoring?**
 What assumption breaks under pressure — like a theorem that fails at the boundary?
 What disaster am I pretending won't happen?
@@ -528,6 +534,12 @@ What constraints would force me to act instead of analyze?
 > *"Design is not just what it looks like and feels like. Design is how it works."* — Steve Jobs
 > *"Network effects account for 70% of all value created in technology since 1994."* — NFX
 > *"The best product is the one that distributes itself."*
+
+**What's the value proposition? (SPIN)**
+What's their situation — what are they doing today without this?
+What's the problem — where exactly does it hurt?
+What's the implication — what gets worse if unsolved? What does inaction cost daily? What cascades?
+What's the payoff — what becomes possible once solved? Say it in their words, not yours.
 
 **Will this spread without me pushing it?**
 What makes a user tell one friend? What's the "you gotta see this" moment?
