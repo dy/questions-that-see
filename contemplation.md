@@ -28,7 +28,7 @@ Am I trying to look smart, spiritual, successful?
 What would remain if applause disappeared?
 What if I trusted myself completely?
 
-**Would this qualify as an offering?**
+**What would qualify as an offering?**
 Is this a gift or a transaction?
 Would I be proud to show this to my teacher?
 Does this serve life or just my image?
@@ -272,7 +272,7 @@ Am I shipping with sincerity — or withholding out of pride?
 
 *Adding more would make it worse. Removing anything would make it incomplete.*
 
-**Truth > Users > Developers > Agents > Ecosystem**
+**Users > Developers > Implementors > Specifiers > Theory**
 
 **Truth** — *Why does this exist?*
 What exact pain does this heal? Is it honest—does it claim only what it delivers?
