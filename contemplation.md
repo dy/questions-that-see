@@ -2,585 +2,215 @@
 
 *Meditation for product design, process enhancement, and any work worth doing*
 
+## Prompting protocol
+
+- One numbered section per session, matched to stage (see [README](README.md)); at most one ∞ lens on top.
+- `[answer with evidence]` — every answer cites a file:line, a quote, a name, a number. No evidence → **UNKNOWN** + the cheapest way to find out. Unknowns become the research list.
+- `[ask me]` — AI asks one question at a time and waits. Motives are mine to answer; a model that answers them is fabricating.
+- A section ends in its artifact — a decision, a list, a verdict — never an essay.
 
 
-# ∞ INTENTION — OFFERING OR EGO TRIP?
 
-> *"Whatever you do, whatever you eat, whatever you offer or give away — do that as an offering to Me."* — Krishna (BG 9.27)
+# ∞ INTENTION — OFFERING OR EGO TRIP? `[ask me]`
+
 > *"Na dhanam na janam na sundarim — I do not want wealth, followers, or beauty. Only causeless service, birth after birth."* — Mahaprabhu
-> *"Don't try to see God. Act in such a way that God will see you."* — Bhaktisiddhanta Sarasvati
 > *"Uttama-bhakti: favorable service, free from all material desire, uncovered by jnana or karma."* — Rupa Goswami (BRS 1.1.11)
-> *"Art in myself, not myself in art."* — Stanislavski
-> *"Mathematics compares the most diverse phenomena and discovers the secret analogies that unite them."* — Joseph Fourier
 
-**What's the real motive?**
-Service or show? Love or performance?
-Would this please God or just myself?
-Am I attached to result or to service?
-Would I do this if no one ever knew? If I couldn't take credit?
-Where is the love in this?
-Is this free from jnana (knowledge-pride) and karma (result-attachment)? *Anyabhilashita-shunyam.*
-Am I the doer (false ego), or the instrument?
+1. What's the real motive — service, or show? Where is the love in this?
+2. Would I do this if no one ever knew — if I could take no credit?
+3. Am I attached to the result, or to the service? Am I the doer, or the instrument?
+4. What am I proving, and to whom — what insecurity is this compensating?
+5. What would remain if applause disappeared?
+6. Gift or transaction — would I be proud to place this before my teacher?
+7. Art in myself, or myself in art?
+8. If this succeeds perfectly, what is different in reality — impact, or rearranged perception?
+9. What am I building as if forever that will last five minutes?
 
-**What ego is hiding here?**
-What am I proving? What insecurity is this compensating for?
-Am I trying to look smart, spiritual, successful?
-What would remain if applause disappeared?
-What if I trusted myself completely?
-
-**What would qualify as an offering?**
-Is this a gift or a transaction?
-Would I be proud to show this to my teacher?
-Does this serve life or just my image?
-Is this work—or worship?
-Art in myself, or myself in art?
-
-**What actually changes—in absolute terms?**
-If this succeeds perfectly, what's different in reality?
-What shifts in the universe that wasn't shifting before?
-Is this real impact or just rearranging perception?
-What would remain if all metrics disappeared?
-Does this create or just consume?
-Can it not be done?
-What will change if this doesn't exist?
-
-**What secret analogy unites this with nature?**
-What hidden harmony connects this to a pattern in another domain?
-Would Fourier see unity here — or just ego projecting patterns?
-Is that manifestation of Hari, or my ego?
-
-**What paradox lives here?**
-What opposite is secretly true?
-What am I building forever that will last five minutes?
-Nothing's more temporary than a promise for eternal—what's mine?
+→ Artifact: the motive, named honestly in one sentence. If ego is in it — proceed anyway, consciously, as offering: the work purifies the worker.
 
 
 
-# 1. EXPLORE — WHAT PROBLEM WANTS SOLVING?
+# 1. EXPLORE — WHAT PROBLEM WANTS SOLVING? `[answer with evidence]`
 
-> *"I am not afraid of material existence, for wherever I stay I am fully absorbed in Your glories. I am anxious for those who have created a way of life of unnecessary problems."* — Prahlada Maharaja (SB 7.9.43)
-> *"The essence of all advice is that one should utilize one's full time and energy in chanting the holy name. This is the teaching of all great devotees, and the original message of the Supreme Lord."* — Bhaktivinoda Thakura
+> *"I am anxious for those who have created a way of life of unnecessary problems."* — Prahlada Maharaja (SB 7.9.43)
 > *"Make something people want."* — Y Combinator
-> *"The profound study of nature is the most fertile source of mathematical discoveries."* — Joseph Fourier
-> *"It is by logic that we prove, but by intuition that we discover."* — Henri Poincaré
 
-**What problem am I here to solve?**
-Show me one person's exact frustration—the precise moment it hits.
-What friction does this remove? What obstacle does this clear?
-What emotion at the friction point? Frustration? Confusion? Overwhelm?
-What's the villain in user's story?
-What would they complain about to a friend?
-What's the signal hiding in noise — what decomposition reveals the clean pattern?
-Is this genuinely serving the living being — or just giving them what they want?
+1. Name one real person. The exact moment frustration hits — what they're doing, what breaks, what they'd mutter to a friend.
+2. What do they do today instead — what does the workaround cost them (minutes, money, mood)?
+3. Is this serving the living being, or just giving them what they want — where exactly do the two diverge?
+4. Who is NOT the user? Who would abuse it?
+5. Who already solved the adjacent pain — per rival: what they got right, what they missed?
+6. What obvious solution is everyone ignoring — and why?
+7. What constraints bind this — and what category does it enter or create?
+8. Why now — what changed, what window closes, what does delay cost — and is there a gift in waiting?
+9. What becomes possible that wasn't — what would the world lose if this never existed?
 
-**What becomes possible that wasn't before?**
-What new capability unlocks? What door opens?
-What would the world lose if this never existed?
-What joy enabled? What friction eliminated?
+Run the five lenses — what does each know that I don't?
+- **The practitioner** — works with this daily. What practical realities do academics miss?
+- **The academic** — what does peer-reviewed evidence actually say? Where does it contradict popular belief?
+- **The skeptic** — what's the strongest counterargument? What do proponents conveniently ignore?
+- **The economist** — who profits from the current narrative? What incentives shape the research?
+- **The historian** — what parallel already played out? How did it end?
 
-**Who is this really for—and who must I disappoint?**
-Who wants this desperately? Who is NOT the user?
-Who would abuse it? Who would misuse it?
-What audience would love this but doesn't know it exists yet?
-Who depends on this?
-Who would celebrate when this arrives?
-
-**What's the territory I'm entering?**
-What already exists? Best/worst of it?
-What's everyone doing that we should avoid?
-What obvious solution is everyone ignoring?
-What constraints/dependencies/limitations bind us?
-What patterns to follow? What anti-patterns to avoid?
-What category does this create—or belong to?
-
-**What are all the ways this could be useful?**
-Main use cases? Hidden/indirect/unintended uses?
-What does it replace?
-What's the simplest thing that could possibly work?
-
-**Who already solved for an adjacent pain?**
-What did they get right? What did they miss?
-What would combining their best ideas look like?
-
-**Why now—what window is open?**
-What changed? What's closing?
-What's the cost of delay? What's the gift of waiting?
-What trend are we riding or fighting?
-What wants to be born through this moment?
+→ Artifact: one named person, one scene of pain, one villain, one why-now sentence. No real person found = stop; find one before designing anything.
 
 
 
-# 2. PROJECT — ONE JOB, WHAT MUST IT DO PERFECTLY?
+# 2. PROJECT — ONE JOB, WHAT MUST IT DO PERFECTLY? `[answer with evidence]`
 
-> *"I am the taste of water, the light of the sun and moon, the ability in man, the original fragrance of the earth."* — Krishna (BG 7.8)
 > *"It is far better to discharge one's own prescribed duty, even though faultily, than another's duty perfectly."* — Krishna (BG 3.35)
-> *"When one is not attached to anything but at the same time accepts everything in relation to Krishna, one is rightly situated above possessiveness."* — Rupa Goswami (BRS 1.2.255)
-> *"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."* — Saint-Exupéry
-> *"Nothing takes place in the universe in which some rule of maximum or minimum does not appear."* — Leonhard Euler
-> *"The ideal machine is no machine — the function is performed without any mechanism."* — Altshuller (TRIZ)
-> *"Simple can be harder than complex. You have to work hard to get your thinking clean to make it simple."* — Steve Jobs
+> *"A mathematical theory is not to be considered complete until you have made it so clear that you can explain it to the first man whom you meet on the street."* — David Hilbert
 
-**What would be ideal result—the timeless form?**
-What single thing must it nail? No compromises.
-If it could only do ONE thing, what survives the fire?
-What does success look like? Feel like? Sound like?
-What job is it hired for? What does it kill?
-What would make this feel inevitable, not optional—like it was always meant to exist?
-What would make it canonical? Classic? Referenced for years?
-One metric—what number defines victory?
-How will I know it's working? Early signal vs noise?
-What does victory taste like?
-Krishna identifies Himself with the functional essence: taste in water, light in sun. What is this product's irreducible essence — its taste, its light?
+1. If it could only do ONE thing, what survives the fire?
+2. What job is it hired for — what does it replace or kill?
+3. One metric — what number is victory, and what early signal separates it from noise?
+4. What's its taste-of-water — the irreducible essence, the soul that can't be copied, the "whoa" a stranger would feel?
+5. Take the limit as versions → ∞ — what pure form does this converge to, before compromise?
+6. What contradiction must it hold without resolving?
+7. Theoretical minimum: one function, one screen, one sentence — what's the seed that contains the tree?
+8. What value does one user get alone, before anyone else joins?
+9. Say it so a stranger on the street gets it — one sentence, no jargon. Does the name reveal or betray?
+10. What must it NOT become — which begged-for feature do we lovingly refuse?
+11. Happy path — what do 90% actually do? What breaks first under 10× load; which edge cases matter, which are noise?
+12. Every yes is a no — what exactly am I trading, and am I willing?
+13. Which one decision, made now, makes all the others obvious — and what am I avoiding committing to?
 
-**What's the theoretically pure form?**
-Before compromise, before constraints—what's the Platonic ideal?
-What would this look like with infinite time, skill, resources?
-What's the version unsullied by "reality"?
-What principle does this embody in its purest state?
-If I take the limit as versions → ∞, what does it converge to?
-What's the attractor this is spiraling toward?
-What contradiction must this hold without resolving?
-
-**What's the theoretical minimum?**
-Smallest thing that still solves the core problem?
-What's the version with zero ornamentation?
-One function. One screen. One sentence. What survives?
-What's the seed that contains the whole tree?
-
-**What's the single-player value?**
-What value does one user get, alone, before anyone else joins?
-Can it stand as a tool even without a network?
-What makes the first user stay before the hundredth arrives?
-
-**Is this so clear a stranger would grasp it?**
-*"A mathematical theory is not to be considered complete until you have made it so clear that you can explain it to the first man whom you meet on the street."* — David Hilbert
-What would Gauss cut to reveal the queen of this solution? *Pauca sed matura* — few, but ripe.
-What maximum or minimum principle does this embody?
-
-**What's the boundary—where does this end?**
-Smallest useful thing? Minimum lovable?
-What's out? What dilutes the magic?
-What must it NOT become? What would betray it?
-What feature would users beg for that we must lovingly refuse?
-What's bone vs flesh? Essential vs ornament?
-What strength becomes weakness if taken too far?
-
-**What's the soul — the spark, the secret, moat, x-factor, spice, flair?**
-*"Know that all opulent, beautiful, and glorious creations spring from but a spark of My splendor."* — Krishna (BG 10.41)
-What's the moat? What can't be copied?
-What makes it alive, not just useful?
-Does this carry a spark of that splendor — where form and function are inseparable?
-What's the spark? The magic? The secret ingredient?
-Where is the beauty hiding? What's the punchline?
-What story wants to be told? What myth does this embody?
-Blue ocean—where is competition irrelevant?
-What would make someone say "whoa"?
-What's the thing only we can see?
-
-**What's the spine everything hangs on?**
-Happy path—what do 90% of users actually do?
-What's the gravity—what pulls everything into orbit?
-What breaks first under weight/scale?
-What edge cases matter? Which are noise?
-What sequence minimizes waste?
-
-**What's the price—and am I willing to pay it?**
-Every yes is a no. What am I trading?
-Speed vs quality, flexibility vs simplicity?
-Good enough now vs perfect never?
-What am I sacrificing that I'll regret?
-What am I keeping that I should sacrifice?
-
-**What unlocks everything?**
-What decision, if made, makes all others obvious?
-What minimal angle shift unlocks a whole new value layer?
-What am I avoiding committing to?
-Reversible → move fast. Irreversible → sleep on it.
-What would I decide if fear wasn't in the room?
-
-**Does the name reveal or betray?**
-What metaphor captures the essence?
-What name would make a stranger curious?
-What name would I be embarrassed by in 5 years?
+→ Artifact: the job in one sentence, the ONE metric, the refuse-list — and each open decision marked reversible (decide now) or irreversible (sleep on it).
 
 
 
-# 3. EXECUTE — SHIP INCOMPLETE BUT USEFUL
+# 3. EXECUTE — SHIP INCOMPLETE BUT USEFUL `[answer with evidence]`
 
-> *"You have a right to perform your prescribed duty, but you are not entitled to the fruits of action."* — Krishna (BG 2.47)
-> *"Every endeavor is covered by some fault, just as fire is covered by smoke. Therefore one should not give up the work born of his nature, even if such work is full of fault."* — Krishna (BG 18.48)
-> *"Even if Arjuna cannot fight, he still should not abandon the battlefield. Even the effort itself is the success."* — Vishvanatha Chakravarti (commentary on BG 2.47)
-> *"Preach boldly. There is no need to wait for a more favorable time."* — Bhaktisiddhanta Sarasvati
+> *"Even if Arjuna cannot fight, he still should not abandon the battlefield. Even the effort itself is the success."* — Vishvanatha Chakravarti (on BG 2.47)
 > *"Do things that don't scale."* — Paul Graham
-> *"Premature optimization is the root of all evil."* — Donald Knuth
-> *"No matter how cool your interface is, less of it would be better."* — Alan Cooper
-> *"A prototype that cannot extend is future rework in disguise."* — Unicorn Club
-> *"Speed is cheap. Trust gaps cost months."* — Unicorn Club
 
-**What's the riskiest assumption hiding in plain sight?**
-What must be true for this to work?
-What lie am I telling myself about feasibility?
-Smallest proof of value? Cheapest way to learn we're wrong?
-What can be faked/simulated before built?
-What's fool's gold? What looks promising but isn't?
-What premature optimization is stealing time from shipping?
-Can one person pre-pay or pre-commit before code exists?
+1. What's the riskiest assumption — what must be true, and what's the cheapest experiment that proves it false this week?
+2. What can be faked before it's built — can one person pre-pay or pre-commit before code exists?
+3. What premature optimization is stealing time from shipping?
+4. What ships today — the first term of the series that already captures the dominant behavior? The 20% that delivers 80%?
+5. What's the date? If launch were tomorrow morning, what would I cut tonight?
+6. What signal from real users surprised me this week — where is my model of the user provably wrong?
+7. What habit feels productive but produces no learning?
 
-**What's the next move—not the strategy, the move?**
-Smallest shippable thing that's genuinely useful?
-What would I ship today — the first term of the series that already captures the dominant behavior?
-What's the 20% that delivers 80%?
-What would embarrass me to NOT ship?
-What would help me to finish this?
+**[ask me]**
 
-**What's the deadline—the edge that makes it real?**
-No deadline = no ship. What's the date?
-If you had one day—what survives?
-If you had one hour—what's the one thing?
-What would I cut if launch was tomorrow morning?
+8. What energizes; what drains? What am I doing only because I "should"?
+9. What am I afraid to ship? Ship that.
+10. Am I shipping with sincerity — or withholding out of pride? *Krishna sees the sincerity of effort, not the magnitude of result.* — Prabhupada
 
-**What energizes vs drains—where's the life?**
-What excites? Chase it. What drains? Eliminate it.
-What feels like play? What feels like slog?
-Where's momentum? Follow it like water.
-What would I do even if it failed?
-What am I doing only because I "should"?
-
-**What am I afraid to ship? Ship that.**
-What would I build if I knew I couldn't fail?
-What would I build if I knew I WOULD fail?
-What's the version I'd be proud to ship right now?
-
-**Am I learning or just building?**
-What did I learn this week that changed the plan?
-What signal from real users surprised me?
-Where is my model of the user provably wrong?
-What habit of doing feels productive but produces no learning?
-*Krishna sees the sincerity of effort, not the magnitude of result.* — Prabhupada
-Am I shipping with sincerity — or withholding out of pride?
+→ Artifact: today's ship, the riskiest assumption named with its test and date, the cut-list for a tomorrow-morning launch.
 
 
 
-# 4. REVISE — READY TO OFFER?
+# 4. REVISE — READY TO OFFER? `[answer with evidence]`
 
-> *"There is nothing so sublime and pure as transcendental knowledge."* — Krishna (BG 4.38)
 > *"O mind, I grasp your feet and beg you with sweet words: please give up all vanity and just worship Radha-Krishna."* — Raghunatha das Goswami (Manah-shiksha 1)
 > *"Have the confidence to cut."* — Paul Graham
-> *"Science is built up with facts, as a house is with stones. But a collection of facts is no more a science than a heap of stones is a house."* — Henri Poincaré
-> *"Good design is actually a lot harder to notice than poor design, in part because good designs fit our needs so well that the design is invisible."* — Don Norman
-> *"Elegance is not a luxury but a strategy for survival."* — Edsger Dijkstra
 
-*Adding more would make it worse. Removing anything would make it incomplete.*
+*The bar: adding more would make it worse; removing anything would make it incomplete.*
 
-**Users > Developers > Implementors > Specifiers > Theory**
+1. Truth gate — does it claim only what it delivers? Would you offer this to God?
+2. A stranger, a clean machine, five minutes: install, run, see it work. Follow your own README verbatim — where does it first fail?
+3. Could a stranger find, test, extend, and maintain this without asking — is every piece of knowledge in the repo?
+4. Could Claude complete a task here without questions — is lint + test feedback under 2 minutes?
+5. Does it follow the ecosystem's conventions — would an expert in it approve?
+6. Would I use it, recommend it, pay for it?
+7. If we deleted half — which half lives? What one removal improves everything else? What's already complete that I keep adding to?
+8. Name the three ugliest places, worst first. What one fix improves many things at once?
+9. What's coupled that shouldn't be — what breaks first when requirements change?
+10. Symptom or root — what is actually being fixed?
+11. What complicates adoption, integration, discovery — for humans and for AI?
+12. What will embarrass me in 6 months — timeless or trendy? What principle guides all future changes, and is it written where future me and agents will find it?
+13. What would a ruthless editor cut — can I defend every line? Don't delete out of ascetic pride; don't keep out of attachment.
 
-**Truth** — *Why does this exist?*
-What exact pain does this heal? Is it honest—does it claim only what it delivers?
-Is it complete? Nothing half-done, nothing excess?
-Will it last? Stable foundations, minimal dependencies?
-Is it elegant? Simple core, complex only where necessary?
-Don't delete out of ascetic pride. Don't keep out of attachment. Keep only what serves.
-*"When one is not attached to anything but accepts everything in relation to Krishna, one is rightly situated above possessiveness."* — Yukta-vairagya (BRS 1.2.255)
-Even the process of devotion accumulates anarthas — even building accumulates debris that seems inseparable. Revise it out.
-Would you offer this to God?
+**[ask me]**
 
-**Users** — *Can they succeed without help?*
-Can they start in 5 minutes? Install, run, see it work?
-Does it do what it promises? Do errors help them recover?
-Are defaults sensible? Follow your own README—does it work?
+14. What actually happened — what worked, what failed, what do I never repeat? What would I confess if fully honest?
 
-**Developers** — *Can they contribute without asking?*
-Can they find things? Names reveal intent? Tests exist and pass?
-Is everything in the repo? No hidden knowledge?
-Could a stranger maintain this if you disappeared?
-
-**Agents** — *Can AI work here autonomously?*
-Are instructions clear? Is feedback fast (lint/test under 2 minutes)?
-Are patterns consistent? Is the code self-documenting?
-Could Claude complete a task without asking questions?
-
-**Ecosystem** — *Does it play well with others?*
-Does it follow conventions? Integrate cleanly?
-Is the environment clear? Is metadata complete?
-Would an expert in this ecosystem approve?
-
-**Does result match intent—or did I fool myself?**
-Does the logic prove what intuition discovered — or did intuition lead astray?
-What would make me proud to show this?
-Would I use this? Recommend it? Pay for it?
-Would a stranger understand and extend it without help — like a clear mathematical exposition?
-
-**What can be deleted entirely? Start there.**
-If we deleted half—which half lives?
-What's one thing that, if removed, improves everything?
-What's the simplest interface? The least clicks?
-What cognitive load can be lifted?
-What would a minimalist remove?
-What's already complete—what am I adding to unnecessarily?
-
-**Where would a craftsman focus first?**
-What's ugly? Clunky? Slow? Wasteful?
-What's embarrassing to look at?
-DX: Easy to extend? UX: Delightful? AX: Discoverable?
-What's the one fix that improves many things at once?
-
-**What's the real structure beneath the surface?**
-What's coupled that shouldn't be?
-What's redundant? DRY violated?
-What's symptom vs cause? Surface vs root?
-What's tangled? What's fragile?
-What would break if requirements changed?
-
-**No ego — what actually happened?**
-What worked? What to repeat?
-What failed? What to never do again?
-What would I do differently next time?
-What honest insight am I sitting on?
-What pattern needs breaking?
-What would I confess if I were being fully honest?
-
-**What complicates adoption?**
-What complicates integration?
-What complicates AI discoverability?
-What would be signals of quality?
-What's the one sentence that explains this to anyone?
-What would make this teachable?
-
-**What survives time—is this built to last?**
-What would embarrass me in 6 months?
-Is this timeless or trendy? Canonical or disposable?
-What principle guides all future changes?
-What docs would future me/agents/users need?
-What's the decision I'll thank myself for?
-What's built to last that won't? What's disposable that will endure?
-
-**What pressure would turn this into diamond?**
-What constraint, if imposed, would force brilliance?
-Half the time? Half the budget? Half the features—which half lives?
-What if 10x users hit it tomorrow—what shatters first?
-What would a ruthless editor cut without mercy?
-What would remain if I had to defend every line?
-What's the crucible this hasn't passed through?
-What artificial comfort am I protecting that's keeping this coal?
-What pressure am I afraid to apply—apply that?
+→ Artifact: the delete-list, the three ugliest ranked, the one-fix-that-improves-many — verdict: offerable / not yet, and what stands between.
 
 
 
-# ∞ BLINDSPOTS — WHAT AM I NOT SEEING?
+# ∞ BLINDSPOTS — WHAT AM I NOT SEEING? `[answer with evidence]`
 
-> *"This divine energy of Mine, consisting of the three modes of material nature, is difficult to overcome."* — Krishna (BG 7.14)
-> *"I am never manifest to the foolish and unintelligent. For them I am covered by My internal potency."* — Krishna (BG 7.25)
 > *"The mundane face-reader may not see the Vaishnava, because a Vaishnava appears ordinary. The real qualification is invisible to material vision."* — Bhaktisiddhanta Sarasvati
-> *"If only I had the theorems! Then I should find the proofs easily enough."* — Bernhard Riemann
-> *"To find new ideas you have to seize on signs of breakage instead of looking away."* — Paul Graham
 > *"A good new idea has to seem bad to most people, or someone would have already explored it."* — Paul Graham
 
-**What external forces am I ignoring? (SWOT)**
-What strength am I underusing? What weakness am I not admitting?
-What's changing in the world that makes this more or less valuable right now?
-What timing advantage exists that won't last?
-Who's approaching this from a different angle — what threatens the whole premise?
+1. Run SWOT — which strength is underused, which weakness unadmitted? What's changing in the world that shifts this project's value right now?
+2. Who approaches this from a different angle — what threatens the whole premise?
+3. Which assumption fails at the boundary — what disaster am I pretending won't happen?
+4. Be my enemy for five seconds: what do you exploit first?
+5. What's the water I'm swimming in — the default too obvious for me to see?
 
-**What am I conveniently ignoring?**
-What assumption breaks under pressure — like a theorem that fails at the boundary?
-What disaster am I pretending won't happen?
-Am I building out of lust (wanting), anger (reacting against), or greed (accumulating)? *Three gates to self-destructive hell.* (BG 16.21)
-What would I see if I weren't so invested?
-What am I making harder than it needs to be?
-What's confusing or surprising here?
-What expectation is being violated?
+**[ask me]**
 
-**What's my comforting lie—my favorite illusion?**
-What pattern am I repeating unconsciously? What habit blinds me?
-What do I tell myself that isn't true?
-What am I protecting that doesn't need protection?
-What story am I attached to that's holding me back?
-What failure mode am I romanticizing?
-What success am I secretly afraid of?
-What if the obstacle IS the way?
-What opposite of my belief is equally true?
+6. Am I building from lust (wanting), anger (reacting against), or greed (accumulating)? *Three gates to self-destructive hell.* (BG 16.21)
+7. What's my comforting lie — the story I protect that holds me back? What success am I secretly afraid of — what if the obstacle is the way?
+8. What question am I dodging — the one I'd ask if I had courage? What does my choice of questions itself reveal?
 
-**What question am I dodging?**
-What's the hardest question here?
-What am I over-thinking? What resolves itself if I wait?
-Is this even the right problem?
-What would I ask if I had courage?
-What's the question behind this question?
-What question unlocks all other questions?
-
-**What would my enemy see in 5 seconds?**
-What would my harshest critic notice immediately?
-What would a competitor exploit?
-What's too obvious for me to notice?
-What's the water I'm swimming in?
-What would shock me if I saw it clearly?
-What's most valuable may look most ordinary. What looks impressive may be empty.
-
-**What question am I not asking?**
-What would the right question even be?
-What does my choice of questions reveal about my blindspot?
+→ Artifact: the dodged question, stated — and one assumption scheduled for a boundary test.
 
 
 
-# ∞ WONDER — WHERE'S THE HIDDEN GOLD?
+# ∞ WONDER — WHERE'S THE HIDDEN GOLD? `[answer with evidence]`
 
-> *"Know that all opulent, beautiful, and glorious creations spring from but a spark of My splendor."* — Krishna (BG 10.41)
 > *"But you cannot see Me with your present eyes. Therefore I give you divine eyes. Behold My mystic opulence!"* — Krishna (BG 11.8)
-> *"An equation for me has no meaning unless it expresses a thought of God."* — Srinivasa Ramanujan
-> *"When an idea seems simultaneously novel and obvious, it's probably a good one."* — Paul Graham
 > *"One of the most powerful kinds of copying is to copy something from one field into another."* — Paul Graham
 
-**What value did I not intend—what potential is unreleased?**
-Hidden treasure? Adjacent problem accidentally solved?
-What constraint removed changes everything?
-What limitation—introduced or removed—would unblock everything?
-What blessing is disguised as obstacle?
-What's the gift hiding inside the limitation?
-What's the low-hanging fruit no one picked?
+*The gold isn't hidden in the product; it's hidden by the mode of perception — wonder requires divya-drishti.*
 
-**What if this is about something else entirely?**
-What reverses my assumptions?
-What story is trying to unfold here?
-What would make this legendary, not just useful?
-What's the "aha" waiting to happen?
+1. What did this accidentally solve — what adjacent treasure sits unreleased?
+2. Which constraint, added or removed, changes everything — what gift hides inside the limitation?
+3. What if this is about something else entirely — what would make it legendary, not merely useful?
+4. What would the child, the grandmother, the alien, the beginner see that I can't?
+5. Which field already solved this — what does it look like in music, gardening, cooking? What's the mashup no one's tried?
+6. What's the absurd but valid use — 10× it; 1/10th it?
+7. Where's the wink — the easter egg, the secret gift that makes a stranger show a friend?
 
-**What would an outsider see that I can't?**
-What would child see? Artist? Poet? Musician?
-What would scientist notice? Philosopher question?
-What would grandmother understand immediately?
-What would alien find strange?
-What's obvious to a beginner that expert misses?
+**[ask me]**
 
-**What would make this feel like magic—not mechanics?**
-Easter egg? Secret gift for the discoverer?
-What would make a stranger smile with delight?
-What's the humor? The playfulness? The wink?
-What would make someone want to show a friend?
+8. What does gut know that analysis doesn't — the answer I already have but won't admit? What's obvious that we're overcomplicating?
+9. What's this secretly about — the thing no one's saying? What paradox, if embraced, unlocks everything?
 
-**What field has the answer we're missing?**
-What would this look like in music? In gardening? In cooking?
-What metaphor from another domain illuminates this?
-What's the mashup no one's tried?
+→ Artifact: three concrete ideas, each naming its source domain and first user — and one wink worth building.
 
-**What's the absurd but valid use?**
-What's the weirdest way this could help someone?
-What if we 10x'd it? 1/10th'd it?
-What would break if this succeeded wildly?
 
-**What does gut know that analysis doesn't?**
-What equation of this product expresses a thought of God — what's inevitable?
-All beauty is derivative — if you find something wonderful, trace it upstream.
-Wonder requires *divya-drishti* — the hidden gold isn't hidden in the product; it's hidden by your mode of perception.
-What's obvious we're overcomplicating?
-What do I know that I don't know I know?
-What would I do if I stopped thinking and just moved?
-What's the answer I already have but won't admit?
 
-**What's this secretly about?**
-What's the thing no one's saying?
-What's the real reason this matters?
-What truth is hiding in plain sight?
-What paradox, if embraced, unlocks everything?
+# ∞ META — SECRET QUESTIONS `[ask me]`
 
-# ∞ META — SECRET QUESTIONS
-
-> *"Just try to learn the truth by approaching a spiritual master. Inquire submissively and render service. The self-realized souls can impart knowledge because they have seen the truth."* — Krishna (BG 4.34)
-> *"The embodied soul may be restricted from sense enjoyment, though the taste remains. But ceasing such engagements by experiencing a higher taste, he is fixed in consciousness."* — Krishna (BG 2.59)
-> *"It is not knowledge, but the act of learning, not possession, but the act of getting there, which grants the greatest enjoyment."* — Carl Friedrich Gauss
-> *"Neurons that fire together wire together."* — Donald Hebb
+> *"Just try to learn the truth by approaching a spiritual master. Inquire submissively and render service."* — Krishna (BG 4.34) — *pranipat, pariprasna, seva: humility, relevant questions, service.*
 > *"If you asked an oracle the secret to doing great work and the oracle replied with a single word, my bet would be on 'curiosity.'"* — Paul Graham
 
-**What question, answered honestly, renders all current activity either obviously right or obviously wasted?**
-Am I contemplating because I'm seeking truth — or because building is scary?
-What question keeps returning no matter how many times I dismiss it?
-What would I work on if I weren't afraid of looking foolish?
-Who am I learning from? Not books — a living chain. *Evam parampara-praptam* (BG 4.2).
-Three requirements: humility (*pranipat*), relevant questions (*pariprasna*), service (*seva*).
+1. What question, answered honestly, renders all current activity either obviously right or obviously wasted?
+2. Am I contemplating because I'm seeking truth — or because building is scary?
+3. What question keeps returning no matter how many times I dismiss it?
+4. Who am I learning from — a living chain (*evam parampara-praptam*), or only books?
+5. What am I compounding — what work done today makes tomorrow's easier? Am I in the flat of the exponential, mistaking it for failure?
+6. What has momentum right now — am I doubling down on it, or diluting across new things?
+7. How fast does signal from real humans reach me — days, weeks, months? Feedback loop, or echo chamber?
+8. Am I wiring myself for contemplation, or for contact with reality? What would I try if failure were just data, not identity?
+9. Am I choosing the right problem, or the nearest one? What's unfashionable but important? What bores others but fascinates me — that's the signal.
+10. What would I build in one weekend, on pure intuition — what constraint forces action over analysis?
 
-**What am I compounding — and am I going deep or spreading thin?**
-What work, done today, makes tomorrow's work easier? (Compound growth)
-What am I learning that compounds — where knowing X makes learning Y faster?
-What audience, skill, or asset am I building that appreciates over time?
-What's my exponential curve — and am I in the flat early part, mistaking it for failure?
-What has momentum and attention right now? Am I doubling down on it — or diluting it across new things?
-Be T-shaped: broad awareness, but deep investment where traction already exists.
-*"Writing a page a day doesn't sound like much, but if you do it every day you'll write a book a year."*
+→ Artifact: the returning question, written down; one thing to stop; one thing to double down on.
 
-**What's my learning velocity — am I getting faster at getting smarter?**
-How fast am I getting signal from real humans? Days? Weeks? Months?
-Am I in a feedback loop or in an echo chamber?
-What did I learn this week that I couldn't have predicted?
-Where is my model of reality most likely wrong?
-What would I try if failure were just data, not identity?
-*The brain rewires toward what it repeatedly does — am I wiring for contemplation or for contact with reality?*
-You stop building wrong things not by analysis but by tasting what right feels like. *Param drishtva nivartate.*
 
-**Am I choosing the right problem — or just solving the nearest one?**
-Originality in choosing problems matters more than originality in solving them.
-What question, if I cracked it, would make me discover a whole new field?
-What's unfashionable but important that nobody's working on?
-What looks boring to others but fascinates me? That's the signal.
-What would I work on if I were going to take a break from "serious" work?
 
-**What would I build if I followed pure intuition first, then proved it?**
-What's the version I'd build in one weekend, with no plan?
-What constraints would force me to act instead of analyze?
-
-# ∞ FEEDBACK — DISTRIBUTION
+# ∞ FEEDBACK — DISTRIBUTION `[answer with evidence]`
 
 > *"In every town and village, My name will be heard."* — Mahaprabhu
-> *"For one who explains this supreme secret to the devotees, there is no servant more dear to Me."* — Krishna (BG 18.68-69)
 > *"The printing press is the brihat-mridanga — it can be heard all over the world."* — Bhaktisiddhanta Sarasvati
-> *"Design is not just what it looks like and feels like. Design is how it works."* — Steve Jobs
-> *"Network effects account for 70% of all value created in technology since 1994."* — NFX
-> *"The best product is the one that distributes itself."*
 
-**What's the value proposition? (SPIN)**
-What's their situation — what are they doing today without this?
-What's the problem — where exactly does it hurt?
-What's the implication — what gets worse if unsolved? What does inaction cost daily? What cascades?
-What's the payoff — what becomes possible once solved? Say it in their words, not yours.
+1. Run SPIN in the user's own words: their situation today, where it hurts, what inaction costs daily, what becomes possible once solved.
+2. What makes a user tell one friend — the screenshot-and-send moment? Trace the loop: user does X → friend sees Y → friend joins.
+3. Where do my people already gather — which community am I one genuine conversation away from? First users define the network's character — choose them like Mahaprabhu chose His associates.
+4. Can I install it for them on the spot — the Collison installation?
+5. What's the contained fire — the deliberately narrow first market, and which side of it do I seed?
+6. Does each new user make it better for every other — what kind of effect, which is the hard side, what critical mass makes the flywheel self-spin?
+7. What went in front of real users this week — what did they actually do, versus what I hoped?
+8. What's the cheapest way to put this in front of 10 strangers today?
+9. Do users come back — how often, why? What compounds with use — data, content, trust — that no competitor can replicate by launch?
+10. What would break if this succeeded wildly — and what wouldn't?
+11. Is distribution here service or extraction — does the quality itself create its own field, making spread inevitable?
 
-**Will this spread without me pushing it?**
-What makes a user tell one friend? What's the "you gotta see this" moment?
-What would make someone screenshot it and send it?
-Is there a multiplayer moment — where using it with others is better than alone?
-What's the viral loop? User does X → friend sees Y → friend becomes user?
-
-**Where do my people already gather?**
-*"One should consider the associates of Lord Chaitanya to be eternally liberated."* — Narottama das Thakura
-Your first users define the character of the whole network — choose them like Mahaprabhu chose His associates.
-What do they already read, watch, subscribe to, attend?
-What community am I one genuine conversation away from?
-What adjacent product's users are underserved and would love this?
-What's the "Collison installation" — can I set them up on the spot?
-
-**What's my cold start strategy?**
-What's single-player value before the network exists?
-Can I seed one side of the marketplace to attract the other?
-What's my contained fire — the deliberately narrow market to ignite first?
-*Facebook started with just Harvard. Stripe installed themselves on founders' laptops.*
-*The Gaudiya Math's cold start was printing presses before temples — technology as amplifier of service.*
-Among companies, the best early adopters are usually other startups.
-
-**What's the network effect — if any?**
-Does each new user make it more valuable for every other user?
-What kind: direct, marketplace, platform, data, or social?
-What's the hard side of the marketplace — supply or demand?
-What creates switching costs? What locks users in (ethically)?
-Is there asymmetry — are some nodes 1000x more valuable than others?
-What's the critical mass needed before the flywheel spins on its own?
-
-**Am I building audience, or just building product?**
-Every week: what went to real users? What signal came back?
-What did users actually do vs what I hoped they'd do?
-Can I pre-sell before building? One person willing to pay = real signal.
-What's the cheapest way to put this in front of 10 strangers today?
-
-**What would make this compound?**
-What gets better the more users use it? (Data, content, network, trust)
-What asset am I creating that competitors can't replicate by launch?
-What would break if this succeeded wildly — and what wouldn't?
-Retention > acquisition. Do users come back? How often? Why?
-Distribution as highest service — not growth hacking, but sharing what genuinely helps.
-Does the quality of the offering create its own distribution field — is this inevitable?
+→ Artifact: the SPIN in the user's words, the first-10-strangers plan with a date, the retention read — who returned, why. Retention before acquisition.
