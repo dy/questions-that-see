@@ -56,6 +56,77 @@ Nothing's more temporary than a promise for eternal—what's mine?
 
 
 
+# ∞ TRUST – WOULD THEY BELIEVE ME?
+
+> *"Satyam, truthfulness, means that facts should be presented as they are, for the benefit of others. Facts should not be misrepresented."* – Prabhupada (BG 10.4–5, purport)
+> *"Austerity of speech consists in speaking words that are truthful, pleasing, beneficial, and not agitating to others."* – Krishna (BG 17.15)
+> *"The first principle is that you must not fool yourself, and you are the easiest person to fool."* – Richard Feynman
+> *"Trust is a function of two things: character and competence."* – Stephen M. R. Covey
+> *"We judge ourselves by our intentions and others by their behavior."* – Stephen M. R. Covey
+
+*Character (integrity, intent) is the root; competence (capabilities, results) is the fruit. Start with self: the trust I can't give myself, I can't give others.*
+
+**Integrity – am I congruent?**
+Where did I shade the truth this week – a white lie, a spin, a convenient omission? What did it buy, and what did it cost?
+Is this technically true but leaving the wrong impression?
+Did I describe that person or situation as it is, or as it suits me?
+Does what I say match what I think? Does what I do match what I say I value?
+What do I stand for here – and would I still stand if the room disagreed?
+Am I more concerned with what is right, or with being right?
+What would change my mind – and have I actually looked for it?
+What did I promise myself and quietly drop?
+
+**Intent – what's my agenda?**
+Whose interest does this serve – mine, or everyone's involved?
+Would they know I have their interest at heart from what I do, not from what I say?
+Do I care about people beyond my circle – or only about those who can do something for me?
+Where do I believe their gain is my loss – credit, resources, attention? Is there really not enough?
+Five whys down – what is my real motive?
+Have I declared my intent – or left them to guess?
+
+**Capabilities – am I relevant?**
+What are my strengths – proven by results, not by hope? Do I spend most of my effort there?
+Where am I weak – and who is strong there that I could team with?
+Where do my talents meet an opportunity for a contribution only I can make?
+What skill is going stale? What am I learning that tomorrow will need?
+Do I know how to build, extend, and restore trust – or do I improvise?
+
+**Results – what's my track record?**
+What did I finish? Not start – finish.
+Will what I'm doing now lead to the result, or just keep me busy?
+Can I state my track record in facts – numbers, names, dates – without hiding or bragging?
+How did I get the result – would I be proud if they saw how?
+What did I under-deliver – and did I say so before they found out?
+
+**Which behavior does this moment call for – and which counterfeit am I running?**
+*The 13 behaviors of high trust (Covey). Each has a counterfeit that looks like it.*
+Talk straight – or spin, flatter, beat around the bush?
+Demonstrate respect – or show it only to those who can do something for me?
+Create transparency – or seem instead of be?
+Right wrongs – or cover up until forced?
+Show loyalty – or credit them to their face and take it behind their back?
+Deliver results – or deliver activity?
+Get better – or learn forever and never produce?
+Confront reality – or busy myself with side issues?
+Clarify expectations – or guess, and draw the target after the shot?
+Practice accountability – or point fingers?
+Listen first – or listen only to load my reply?
+Keep commitments – or promise so vaguely I can't be pinned down?
+Extend trust – or withhold it because there is risk, or hand it out blindly?
+
+**When trust breaks – what's my part?**
+If I broke it: can I own it without excuse, say I want to make it right, listen first, tell them what to expect from me now – and behave my way out of what I behaved my way into?
+If they broke it: what did I contribute? Can I separate the person from the behavior? What exact behavior would help – and can I ask for it?
+Is it worth restoring? Am I giving up too soon?
+
+**Does it ripple outward?**
+Self → relationships → team → market → society: a gap in one wave opens gaps in the next.
+Do I keep my word to myself? That's where every other trust starts.
+What does this product promise that it doesn't keep?
+Would a stranger trust it in the first five minutes – and would that trust be deserved?
+
+
+
 # 1. EXPLORE — WHAT PROBLEM WANTS SOLVING?
 
 > *"I am not afraid of material existence, for wherever I stay I am fully absorbed in Your glories. I am anxious for those who have created a way of life of unnecessary problems."* — Prahlada Maharaja (SB 7.9.43)

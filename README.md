@@ -16,6 +16,7 @@ Questions for work worth doing.
 | # | Section | When |
 |---|---------|------|
 | ∞ | Intention | Always first |
+| ∞ | Trust | Before a claim, a promise, or a hard conversation |
 | 1 | Explore | Before starting |
 | 2 | Project | Before designing |
 | 3 | Execute | While building |
